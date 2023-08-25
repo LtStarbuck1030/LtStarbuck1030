@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LtStarbuck1030
-- 👀 I’m interested in music, art and learning front end web development.
+- 👀 I’m interested in music, art and improving my web dev skills.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: here!
